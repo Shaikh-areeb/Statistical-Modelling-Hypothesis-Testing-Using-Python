@@ -22,6 +22,18 @@ which means understanding the relationships between variables and quantifying ho
 | Tempo            | -1.865736e+00     |
 
 
+## Hypothesis-Testing
+Hypothesis Testing is a statistical method used to make inferences or decisions about a population based on sample data. It starts with a null hypothesis (H0), which represents a default stance or no effect, and an alternative hypothesis (H1 or Ha), which represents what we aim to prove or expect to find. The process involves using sample data to determine whether to reject the null hypothesis in favor of the alternative hypothesis, based on the likelihood of observing the sample data under the null hypothesis. So, if you want to learn how to perform Hypothesis Testing, I’ll take you through the task of Hypothesis Testing using Python.
+## Statistical Analysis Results
+
+| Metric             | T-Statistic | P-Value  |
+|--------------------|-------------|----------|
+| Click Through Rate | -1.978171   | 0.048184 |
+| Conversion Rate    | 0.474849    | 0.634998 |
+| Bounce Rate        | -1.201888   | 0.229692 |
+| Scroll Depth       | 0.756228    | 0.449692 |
+
+
 
 # Contents
 
